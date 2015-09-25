@@ -1,0 +1,10 @@
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.dll
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.dll
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\mcatal\Desktop\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.dll
+C:\Users\mcatal\Desktop\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\mcatal\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\mcatal\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.dll
+C:\Users\mcatal\Desktop\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.pdb

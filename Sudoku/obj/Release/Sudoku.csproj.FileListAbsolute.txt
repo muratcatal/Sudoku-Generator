@@ -1,0 +1,4 @@
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\bin\Release\Sudoku.dll
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.dll
+D:\Projects\CSharp\Sudoku\Sudoku\Sudoku\obj\Release\Sudoku.pdb

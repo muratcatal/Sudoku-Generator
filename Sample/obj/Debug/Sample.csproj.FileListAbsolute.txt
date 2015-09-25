@@ -1,0 +1,8 @@
+D:\Projects\CSharp\Sudoku\Sudoku\Sample\bin\Debug\Sample.exe.config
+D:\Projects\CSharp\Sudoku\Sudoku\Sample\bin\Debug\Sample.exe
+D:\Projects\CSharp\Sudoku\Sudoku\Sample\bin\Debug\Sample.pdb
+D:\Projects\CSharp\Sudoku\Sudoku\Sample\bin\Debug\Sudoku.dll
+D:\Projects\CSharp\Sudoku\Sudoku\Sample\bin\Debug\Sudoku.pdb
+D:\Projects\CSharp\Sudoku\Sudoku\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+D:\Projects\CSharp\Sudoku\Sudoku\Sample\obj\Debug\Sample.exe
+D:\Projects\CSharp\Sudoku\Sudoku\Sample\obj\Debug\Sample.pdb
